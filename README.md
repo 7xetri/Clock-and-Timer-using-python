@@ -19,3 +19,4 @@
         </li>
         <li>
             ToastNotifier Library – ToastNotifier Library will help us display a desktop notification. Use the following command to install it:
+            <pre><code>Pip install win10toast</code></pre>
